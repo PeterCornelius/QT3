@@ -36,7 +36,7 @@ App {
     Text {
         anchors.fill: parent
 
-        text: "{My App}"
+        text: "{My App GH}"
         font.pointSize: 24
         color: "black"
         wrapMode: Text.WrapAtWordBoundaryOrAnywhere
